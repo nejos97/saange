@@ -38,7 +38,7 @@
 			<section class="container">
 		
 			<!-- Button trigger modal -->
-			<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#myModal">
+			<button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#myModal">
   				About @uthor !
 			</button>
 

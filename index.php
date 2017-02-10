@@ -211,7 +211,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul>
-                        <li><a href="">A propos de l'Auteur</a></li>
+                        <li>CopyLeft <?php echo date('Y')  ?>  (CL)</li>
                     </ul>
                 </div>
             </div>

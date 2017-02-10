@@ -54,7 +54,10 @@
 				<h4 class="modal-title" id="myModalLabel">Modal title</h4>
 			      </div>
 			      <div class="modal-body">
-				...
+				<img src="https://avatars1.githubusercontent.com/u/13876543?v=3&s=460">
+				I am Nenba Jonathan student in computer engineering specialty software engineering.
+				I like over programming and meet the challenges. To better discover me, 
+				I invite you to follow me on github.com/nejos97 or to write me on nenbajonathan@protonmail.com.
 			      </div>
 			      <div class="modal-footer">
 				<button type="button" class= "btn btn-default" data-dismiss="modal">Close</button>

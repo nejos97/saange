@@ -211,7 +211,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul>
-                        <li>CopyLeft <?php echo date('Y')  ?>  (CL)</li>
+			    <li><i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by Nejos97</li>
                     </ul>
                 </div>
             </div>

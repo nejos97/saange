@@ -211,7 +211,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul>
-			    <li><i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by Nejos97</li>
+			    <li><i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by <a href="https://github.com/nejos97">Nejos97</a></li>
                     </ul>
                 </div>
             </div>

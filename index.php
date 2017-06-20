@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <!-- Choose of Encoding -->
         <meta charset="utf-8">
         
         <!-- Loading Bootstrap -->
